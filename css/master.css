@@ -1,14 +1,19 @@
+body {
+  background-color: #000;
+}
+
 #canvases {
   position: relative;
-  height: 100%;
-  width: 100%
+  width: 800px;
+  height: 600px;
+  margin: auto;
 }
 
 #canvases > canvas {
   position: absolute;
   top: 0;
   left: 0;
-  border: solid 1px;
+  border: inset #999 2px;
 }
 
 #sprites {
