@@ -1,13 +1,20 @@
 # Fire Rain
+> Simple space-shooter game made as a project for the class Introduction to Web Programming at Langara College.
 
-Simple space-shooter game made as a project for the class Introduction to Web Programming at Langara College.
+## Running
+
+Open ``index.html``.
 
 ## Built With
 
-* HTML
-* CSS
-* JavaScript
+* HTML5
+* CSS3
+* JavaScript (ES6)
 
 ## Authors
 
-* **Caue Pinheiro** - Programming and Design
+* **Caue Pinheiro** – cauehier@gmail.com
+
+## Meta
+
+> Distributed under the MIT license. See ``LICENSE`` for more information.
